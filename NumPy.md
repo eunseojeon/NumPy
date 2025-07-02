@@ -80,6 +80,8 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - [The Difference Between Copy and View](./The_Difference_Between_Copy_and_View.ipynb)
 
 ## 6. NumPy의 여러 배열에 대해서
+- [Numpy의 여러 배열](./NumPy의_여러_배열.ipynb)
+
 
 
 
