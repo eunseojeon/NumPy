@@ -37,6 +37,10 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - [Numpy 배열 생성](./NumPy_배열_생성.ipynb)
 
 ## 2. NumPy 배열 인덱싱
+- 배열 인덱싱은 배열 요소에 액세스하는 것과 같습니다.
+- 배열 요소에 접근하려면 인덱스 번호를 참조하면 됩니다.
+- NumPy 배열의 인덱스는 0부터 시작합니다. 즉, 첫 번째 요소의 인덱스는 0이고, 두 번째 요소의 인덱스는 1입니다.
+- [Numpy 배열 인덱싱](./NumPy_배열_인덱싱.ipynb)
 ## 3. NumPy 배열 Slicing
 ## 4. NumPy 데이터 유형
 ## 5. The Difference Between Copy and View
