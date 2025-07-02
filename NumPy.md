@@ -70,4 +70,6 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 | U | 유니코드 문자열 | unicode string |
 | V | 고정 메모리 조각 | fixed chunk of memory (void) |
 
+- [Numpy 데이터_유형](./NumPy_데이터_유형.ipynb)
+
 ## 5. The Difference Between Copy and View
