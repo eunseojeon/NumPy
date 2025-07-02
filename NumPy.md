@@ -57,16 +57,16 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - 아래는 NumPy의 모든 데이터 타입과 이를 나타내는 문자 목록
   | 문자 목록 | 데이터 타입 | 영어로 |
 | --------- | ------------- | ------------------- |
-i | 정수 | integer
-b | 불리언 | boolean
-u | 부호 없는 정수 | unsigned integer
-f | 부동 소수점 | float
-c | 복소수 | complex float
-m | 시간 간격 | timedelta
-M | 날짜/시간 | datetime
-O | 객체 | object
-S | 문자열 | string
-U | 유니코드 문자열 | unicode string
-V | 고정 메모리 조각 | fixed chunk of memory (void)
+| i | 정수 | integer|
+| b | 불리언 | boolean|
+| u | 부호 없는 정수 | unsigned integer|
+| f | 부동 소수점 | float|
+| c | 복소수 | complex float|
+| m | 시간 간격 | timedelta|
+| M | 날짜/시간 | datetime|
+| O | 객체 | object|
+| S | 문자열 | string|
+| U | 유니코드 문자열 | unicode string|
+| V | 고정 메모리 조각 | fixed chunk of memory (void)|
 
 ## 5. The Difference Between Copy and View
