@@ -32,6 +32,7 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - [3. NumPy 배열 Slicing](#3-NumPy-배열-Slicing)
 - [4. NumPy 데이터 유형](#4-NumPy-데이터-유형)
 - [5. The Difference Between Copy and View](#5-The-Difference-Between-Copy-and-View)
+- [6. NumPy의 여러 배열에 대해서](#6-NumPy의-여러-배열에-대해서)
 
 ## 1. NumPy 배열 생성
 - [Numpy 배열 생성](./NumPy_배열_생성.ipynb)
@@ -77,3 +78,13 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - 복사본은 **데이터를 소유**하며 복사본에 적용된 변경 사항은 원본 배열에 영향을 미치지 않고 원본 배열에 적용된 변경 사항은 복사본에 영향을 미치지 않습니다.
 - 뷰는 **데이터를 소유하지 않으며** , 뷰에 적용된 모든 변경 사항은 원래 배열에 영향을 미치고, 원래 배열에 적용된 모든 변경 사항은 뷰에 영향을 미칩니다.
 - [The Difference Between Copy and View](./The_Difference_Between_Copy_and_View.ipynb)
+
+## 6. NumPy의 여러 배열에 대해서
+
+
+
+
+
+
+
+
