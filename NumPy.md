@@ -35,13 +35,13 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - [6. NumPy의 여러 배열에 대해서](#6-NumPy의-여러-배열에-대해서)
 
 ## 1. NumPy 배열 생성
-- [Numpy 배열 생성](./NumPy_배열_생성.ipynb) <- 실습
+- [Numpy 배열 생성](./NumPy_배열_생성.ipynb) **<- 실습**
 
 ## 2. NumPy 배열 인덱싱
 - 배열 인덱싱은 배열 요소에 액세스하는 것과 같다
 - 배열 요소에 접근하려면 인덱스 번호를 참조하면 됩니다.
 - NumPy 배열의 인덱스는 0부터 시작합니다. 즉, 첫 번째 요소의 인덱스는 0이고, 두 번째 요소의 인덱스는 1입니다.
-- [Numpy 배열 인덱싱](./NumPy_배열_인덱싱.ipynb) <- 실습
+- [Numpy 배열 인덱싱](./NumPy_배열_인덱싱.ipynb) **<- 실습**
 
 ## 3. NumPy 배열 Slicing
 - 파이썬에서 슬라이싱은 주어진 인덱스에서 다른 주어진 인덱스로 요소를 옮기는 것을 의미
@@ -50,7 +50,7 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - 시작을 통과하지 못하면 0으로 간주됩니다
 - 우리가 end를 전달하지 않으면 해당 차원의 배열의 길이가 고려됩니다
 - 만약 우리가 단계를 통과하지 못한다면 그것은 1로 간주됩니다
-- [Numpy 배열 Slicing](./NumPy_배열_Slicing.ipynb) <- 실습
+- [Numpy 배열 Slicing](./NumPy_배열_Slicing.ipynb) **<- 실습**
   
 ## 4. NumPy 데이터 유형
 - NumPy에는 몇 가지 추가 데이터 타입이 있으며, 데이터 타입을 한 글자로 나타냅니다.
@@ -71,16 +71,16 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 | U | 유니코드 문자열 | unicode string |
 | V | 고정 메모리 조각 | fixed chunk of memory (void) |
 
-- [Numpy 데이터_유형](./NumPy_데이터_유형.ipynb) <- 실습
+- [Numpy 데이터_유형](./NumPy_데이터_유형.ipynb) **<- 실습**
 
 ## 5. The Difference Between Copy and View
 - 배열의 복사본과 뷰의 주요 차이점은 복사본은 **새로운 배열**이고, 뷰는 단지 **원본 배열**의 뷰라는 점입니다.
 - 복사본은 **데이터를 소유**하며 복사본에 적용된 변경 사항은 원본 배열에 영향을 미치지 않고 원본 배열에 적용된 변경 사항은 복사본에 영향을 미치지 않습니다.
 - 뷰는 **데이터를 소유하지 않으며** , 뷰에 적용된 모든 변경 사항은 원래 배열에 영향을 미치고, 원래 배열에 적용된 모든 변경 사항은 뷰에 영향을 미칩니다.
-- [The Difference Between Copy and View](./The_Difference_Between_Copy_and_View.ipynb) <- 실습
+- [The Difference Between Copy and View](./The_Difference_Between_Copy_and_View.ipynb) **<- 실습**
 
 ## 6. NumPy의 여러 배열에 대해서
-- [Numpy의 여러 배열](./NumPy의_여러_배열.ipynb) <- 실습
+- [Numpy의 여러 배열](./NumPy의_여러_배열.ipynb) **<- 실습**
 1. NumPy 배열 모양
 2. NumPy 배열 재구성
 3. NumPy 배열 반복
