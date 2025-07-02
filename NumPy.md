@@ -27,4 +27,14 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 ---
 
 # NumPy 배열 생성
+- [1. NumPy 배열 생성](#1-NumPy-배열-생성)
+- [2. NumPy 배열 인덱싱](#2-NumPy-배열-인덱싱)
+- [3. NumPy 배열 Slicing](#3-NumPy-배열-Slicing)
+- [4. NumPy 데이터 유형](#4-NumPy-데이터-유형)
+- [5. The Difference Between Copy and View(복사와 뷰의 차이점)](#5-The-Difference-Between-Copy-and-View(복사와-뷰의-차이점))
 
+## 1. NumPy 배열 생성
+## 2. NumPy 배열 인덱싱
+## 3. NumPy 배열 Slicing
+## 4. NumPy 데이터 유형
+## 5. The Difference Between Copy and View(복사와 뷰의 차이점)
