@@ -52,4 +52,21 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 - [Numpy 배열 Slicing](./NumPy_배열_Slicing.ipynb)
   
 ## 4. NumPy 데이터 유형
+- NumPy에는 몇 가지 추가 데이터 타입이 있으며, 데이터 타입을 한 글자로 나타냅니다.
+- 예를 들어, 정수는 i, 부호 없는 정수는 u 등으로 표시합니다.
+- 아래는 NumPy의 모든 데이터 타입과 이를 나타내는 문자 목록
+  | 문자 목록 | 데이터 타입 | 영어로 |
+| --------- | ------------- | ------------------- |
+i | 정수 | integer
+b | 불리언 | boolean
+u | 부호 없는 정수 | unsigned integer
+f | 부동 소수점 | float
+c | 복소수 | complex float
+m | 시간 간격 | timedelta
+M | 날짜/시간 | datetime
+O | 객체 | object
+S | 문자열 | string
+U | 유니코드 문자열 | unicode string
+V | 고정 메모리 조각 | fixed chunk of memory (void)
+
 ## 5. The Difference Between Copy and View
