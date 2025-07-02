@@ -81,7 +81,14 @@ NumPy의 핵심 객체는 ndarray로, 동일한 데이터 타입을 갖는 원�
 
 ## 6. NumPy의 여러 배열에 대해서
 - [Numpy의 여러 배열](./NumPy의_여러_배열.ipynb)
-
+1. NumPy 배열 모양
+2. NumPy 배열 재구성
+3. NumPy 배열 반복
+4. NumPy 배열 결합
+5. NumPy 배열 분할
+6. NumPy 배열 검색
+7. NumPy 배열 정렬
+8. NumPy 배열 필터
 
 
 
